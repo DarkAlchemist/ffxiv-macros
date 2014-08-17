@@ -1,0 +1,6 @@
+/recast "Virus"
+/recast "Divine Seal"
+/recast "Shroud of Saints"
+/recast "Benediction"
+/recast "Swiftcast"
+/recast "Surecast"
