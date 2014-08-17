@@ -1,8 +1,0 @@
-/micon "Flare"
-/ac "Convert" <me>
-/wait 0.5
-/ac "Swiftcast" <me>
-/wait 0.5
-/ac "Flare" <t>
-/wait 0.5
-/ac "Transpose"
